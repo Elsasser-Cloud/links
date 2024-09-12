@@ -40,6 +40,16 @@
   padding: 0 20px;
   box-sizing: border-box;
 }
+
+.container-xl {
+  position: relative;
+  width: 100%;
+  max-width: 1280px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
 .container-left {
   position: relative;
   width: 100%;
