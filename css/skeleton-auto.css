@@ -181,6 +181,9 @@ pre > code {
 button,
 .button {
   margin-bottom: 1rem;
+  width: 100% !important;
+  margin-left:0 !important;
+  box-sizing: border-box;
 }
 input,
 textarea,

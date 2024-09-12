@@ -425,3 +425,16 @@ td,
 th {
   padding: 0;
 }
+
+.logo {
+  width: 80%;
+  @media (min-width: 300px) {
+    width: 75%;
+  }
+  @media (min-width: 400px) {
+    width: 70%;
+  }
+  @media (min-width: 600px) {
+    width: 50%;
+  }
+}
