@@ -429,12 +429,12 @@ th {
 .logo {
   width: 80%;
   @media (min-width: 300px) {
-    width: 75%;
+    width: 95%;
   }
   @media (min-width: 400px) {
-    width: 70%;
+    width: 80%;
   }
-  @media (min-width: 600px) {
-    width: 50%;
+  @media (min-width: 500px) {
+    width: 40%;
   }
 }
